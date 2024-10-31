@@ -23,7 +23,7 @@ The experiment involves presenting two stimulus areas with gray-scale images of 
 ## Code Structure
 - `main_experiment.m`: The main script to run the experiment.
 - `stimulus_presentation.m`: Functions to present the stimuli.
-- `response_recording.m`: Functions to record participant responses and reaction times.
+- `ReadKey.m`: Functions to record participant responses and reaction times.
 - `probe_size_adjustment.m`: Functions to adjust the size of the probe dot based on participant performance.
 - `PlaySound.m`: Functions to play audio.
 
