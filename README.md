@@ -25,7 +25,7 @@ The experiment involves presenting two stimulus areas with gray-scale images of 
 - `stimulus_presentation.m`: Functions to present the stimuli.
 - `response_recording.m`: Functions to record participant responses and reaction times.
 - `probe_size_adjustment.m`: Functions to adjust the size of the probe dot based on participant performance.
-- `data_analysis.m`: Functions to analyze the collected data.
+- `PlaySound.m`: Functions to play audio.
 
 ## Running the Experiment
 To run the experiment, simply execute the `main_experiment.m` script in MATLAB. Ensure that all the supporting functions are in the same directory or in the MATLAB path.
