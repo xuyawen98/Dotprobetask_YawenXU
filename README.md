@@ -21,10 +21,10 @@ The experiment involves presenting two stimulus areas with gray-scale images of 
 5. If no response is given within 2000 milliseconds, a 1000ms blank screen appears before the next trial.
 
 ## Code Structure
-- `main_experiment.m`: The main script to run the experiment.
-- `stimulus_presentation.m`: Functions to present the stimuli.
+- `Task.m`: The main script to run the experiment.
+- `seq.m`: Functions to present the stimuli.
 - `ReadKey.m`: Functions to record participant responses and reaction times.
-- `probe_size_adjustment.m`: Functions to adjust the size of the probe dot based on participant performance.
+- `WaitTill.m`: Functions to wait for a specific condition related to time or key press events.
 - `PlaySound.m`: Functions to play audio.
 
 ## Running the Experiment
