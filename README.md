@@ -34,7 +34,7 @@ To run the experiment, simply execute the `main_experiment.m` script in MATLAB. 
 
 Below is a flowchart illustrating the experiment process:
 
-![Experiment Flowchart](experiment_flowchart.png)
+![Experiment Flowchart](ExperimentFlow.png)
 
 ## Notes
 - The size of the probe dot is adaptively adjusted based on participant performance, starting with a larger size during practice.
